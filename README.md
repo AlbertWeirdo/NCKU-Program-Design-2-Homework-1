@@ -1,4 +1,4 @@
-Source: [PD2 Homework 1 on Notion]([https://chuangkt.notion.site/PD2-Homework-3-f52f072e460d4308a60cc35d09a94e82](https://chuangkt.notion.site/PD2-Homework-1-3fce92cd9b504721bdefc0d214e9bad0))
+Source: [PD2 Homework 1 on Notion](https://chuangkt.notion.site/PD2-Homework-1-3fce92cd9b504721bdefc0d214e9bad0)
 
 # PD2 Homework 1
 
